@@ -170,7 +170,7 @@ spring.datasource.url=jdbc:mysql://localhost:3306/product_db3
 spring.datasource.username=root
 spring.datasource.password=root
 spring.jpa.hibernate.ddl-auto=update
-server.port=8082
+server.port=8081
 ```
 
 ---
